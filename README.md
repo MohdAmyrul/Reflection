@@ -1,4 +1,3 @@
-📚 Semester Reflection Summary: COA, SAD, TIS
 🖥️ Computer Organisation and Architecture (COA)
 This course deepened my understanding of how computers function at the hardware level. Through topics like instruction cycles, memory hierarchy, and assembly programming, I developed a strong grasp of how software interacts with hardware. Writing and debugging low-level programs sharpened my attention to detail and cultivated a system-level mindset—skills I’ll carry into embedded systems and AI-integrated solutions.
 Key Growth: Gained precision in low-level logic, improved debugging skills, and understood performance optimization from a processor’s perspective.
